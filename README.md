@@ -8,4 +8,5 @@ Plugin für Minecraft Spigot Server, zur regulierung des Spawnens von Skelet Pfe
 -'WorldEdit'
 
 ## Commands:
-'regionSkeletonHorse' [enable/disable] - Erlaubt/ Verbietet das Spanwnen von Skeletpferden in der aktuellen Region.
+- 'regionSkeletonHorse'
+  - /regionSkeletonHorse [enable/disable] - Erlaubt/ Verbietet das Spanwnen von Skeletpferden in der aktuellen Region.
